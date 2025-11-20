@@ -18,7 +18,7 @@
 
 ## 🧠 About the Project  
 
-**AIClip Generator** is an AI-powered Flask web app that transforms your ideas into short AI-generated video clips.  
+**AIVideo Generator** is an AI-powered Flask web app that transforms your ideas into short AI-generated video clips.  
 Just **upload an image**, **enter your text**, and click **Create** — it automatically:  
 
 🎤 Converts the text into **natural-sounding voice** using **ElevenLabs API**  
