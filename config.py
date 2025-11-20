@@ -1,0 +1,1 @@
+ELEVENLABS_API_KEY = "sk_5ac26625f00b619b0bc0c38f8d9e1818be8abb7510861d86" #https://elevenlabs.io/app/settings/api-keys create key after login you accout the paste the api key here 
