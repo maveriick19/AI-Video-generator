@@ -4,7 +4,7 @@
 <!-- Heading with Logo Animation -->
 <div align="center">
   <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/processing.gif" width="120px" alt="AIClip Generator Logo">
-  <h1>🎬 AIClip Generator</h1>
+  <h1>🎬 AI Video Generator</h1>
   <h3>Convert Text + Image → Voice + Video | Powered by Flask & FFmpeg</h3>
 </div>
 
